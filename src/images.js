@@ -18,6 +18,7 @@ import home_banner_svg from "media/pages/home/home_banner.svg";
 import home_about_svg from "media/pages/home/home_about.svg";
 import home_work_svg from "media/pages/home/home_work.svg";
 import home_goals_svg from "media/pages/home/home_goals.svg";
+import orcania_welcome_screen_gif from "media/pages/home/orcania-welcome-screen.gif";
 
 import polygon_logo_svg from "media/patners/polygon.svg";
 import harmony_logo_svg from "media/patners/harmony.svg";
@@ -116,7 +117,7 @@ export const surreal = surreal_svg;
 export const polygon_logo = polygon_logo_svg;
 export const harmony_logo = harmony_logo_svg;
 
-export const welcomeScreenHome = homeGif;
+export const welcomeScreenHome = orcania_welcome_screen_gif;
 /*~~*~~*~~*~~*~~*~~*~~*~~* ASSETS TOKEN *~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*/
 
 export const tokenBannerImg = token_logo_svg;
