@@ -54,9 +54,9 @@ const Footer = () => {
                     <i className="fab fa-discord"></i>
                   </span>
                 </a>
-                {/* <h1 className="subtitle has-text-dark is-5">
+                <h1 className="subtitle has-text-dark is-5">
                   cryptofamily@cryptofamily.tech
-                </h1> */}
+                </h1>
               </div>
 
               <div
