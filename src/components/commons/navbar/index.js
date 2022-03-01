@@ -68,8 +68,8 @@ function NavBar() {
         <div className="navbar-brand">
           <Link to="/" className="navbar-item asd">
             &nbsp;&nbsp;
-            <span className="navbar-item" alt="https://cryptofamily3.com">
-              <img src={logoLight} alt="Crypto Family logo" />
+            <span className="navbar-item" alt="https://orcania.io/">
+              <img src={logoLight} alt="Orcania logo" />
             </span>
             <h1 className="title is-5 has-text-white">&nbsp; Orcania</h1>
           </Link>
