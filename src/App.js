@@ -31,7 +31,7 @@ function App() {
           <Home />
         </Route>
 
-        <Route exact path="/token">
+        {/* <Route exact path="/token">
           <Token />
         </Route>
 
@@ -49,7 +49,7 @@ function App() {
 
         <Route exact path="/downloads">
           <Downloads />
-        </Route>
+        </Route>*/}
       </Switch>
 
       <Footer />

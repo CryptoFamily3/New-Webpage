@@ -71,7 +71,7 @@ function NavBar() {
             <span className="navbar-item" alt="https://cryptofamily3.com">
               <img src={logoLight} alt="Crypto Family logo" />
             </span>
-            <h1 className="title is-5 has-text-white">&nbsp; Crypto Family</h1>
+            <h1 className="title is-5 has-text-white">&nbsp; Orcania</h1>
           </Link>
 
           <a
@@ -110,7 +110,7 @@ function NavBar() {
               <h1>Home</h1>
             </Link>
 
-            <Link
+            {/* <Link
               to="/token"
               className={`navbar-item has-text-light  ${
                 location.pathname === "/token" ? "is-active" : ""
@@ -158,7 +158,7 @@ function NavBar() {
               </span>
               &nbsp;
               <h1>App</h1>
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>
